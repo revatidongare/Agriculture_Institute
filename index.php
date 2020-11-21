@@ -45,8 +45,8 @@
           </ul>
         </div>
         <div class="banner-right-txt">
-          <h5 class="mb-sm-3 mb-2">Management Institute</h5>
-          <h4>Farmer Study </h4>
+          <h4 class="mb-sm-3 mb-2">FARMER STUDY</h4>
+          <h5>Management Institute </h5>
         </div>
         <div class="slide-info-txt">
           <p>We offer Diploma in agriculture with work experiece in <b>Germany, Australia & U.S.A.</b></p>
@@ -60,8 +60,8 @@
     <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
       <h3 class="title text-center mb-2">About Us</h3>
       <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et Lorem ipsum
-        </p>
+        <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et Lorem ipsum
+        </p>-->
       </div>
       <div class="row">
         <div class="col-lg-5 video-info-img text-center position-relative">
@@ -121,7 +121,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
           <div class="grid-wthree-service">
-            <img src="images/ab1.jpg" alt="news image" class="img-fluid">
+            <img src="images/l1.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
                 Vegatables
@@ -247,49 +247,49 @@
     <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
       <h3 class="title text-center mb-2">Gallery </h3>
       <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et Lorem ipsum
+        <p>Pictures speaks loud than words.Here presenting the pictures related Farmer Study.
         </p>
       </div>
       <div class="row gallery-info">
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal1">
-              <img src="images/g1.jpg" alt="news image" class="img-fluid">
+              <img src="images/F1.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal2">
-              <img src="images/bb2.jpg" alt="news image" class="img-fluid">
+              <img src="images/f7.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal3">
-              <img src="images/bb3.jpg" alt="news image" class="img-fluid">
+              <img src="images/f3.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal4">
-              <img src="images/g2.jpg" alt="news image" class="img-fluid">
+              <img src="images/f4.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal5">
-              <img src="images/g3.jpg" alt="news image" class="img-fluid">
+              <img src="images/f6.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal6">
-              <img src="images/g4.jpg" alt="news image" class="img-fluid">
+              <img src="images/f8.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
@@ -297,7 +297,7 @@
       <!-- popup-->
       <div id="gal1" class="popup-effect">
         <div class="popup">
-          <img src="images/g1.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/F1.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -305,7 +305,7 @@
       <!-- popup-->
       <div id="gal2" class="popup-effect">
         <div class="popup">
-          <img src="images/bb2.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/f7.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -313,7 +313,7 @@
       <!-- popup-->
       <div id="gal3" class="popup-effect">
         <div class="popup">
-          <img src="images/bb3.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/f3.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -321,7 +321,7 @@
       <!-- popup-->
       <div id="gal4" class="popup-effect">
         <div class="popup">
-          <img src="images/g2.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/f4.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -329,7 +329,7 @@
       <!-- popup-->
       <div id="gal5" class="popup-effect">
         <div class="popup">
-          <img src="images/g3.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/f6.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -337,7 +337,7 @@
       <!-- popup-->
       <div id="gal6" class="popup-effect">
         <div class="popup">
-          <img src="images/g4.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/f8.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -346,6 +346,7 @@
   </section>
   <!--//gallery -->
   <!-- blog -->
+  <!--
   <section class="blog py-lg-5 py-md-4 py-sm-3 py-3" id="blog">
     <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
       <h3 class="title text-center mb-2">Blog</h3>
@@ -444,11 +445,17 @@
       </div>
     </div>
   </section>
+  ..>
   <!--//blog -->
-  <section>
+  <section><div class="container py-lg-5 py-md-4 py-sm-4 py-3">
+      <h3 class="title text-center mb-2">MAP</h3>
+      <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
+        <p>Direction for locate to us 
+        </p>
+      </div>
     <div class="container-fulid">
       <div class="address_mail_footer_grids">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3539.812628729253!2d153.014155!3d-27.4750921!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a0835840a2f%3A0xdd5e3f5c208dc0e1!2sMelbourne+St%2C+South+Brisbane+QLD+4101%2C+Australia!5e0!3m2!1sen!2sin!4v1492257477691"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.75850547596!2d73.89992562894783!3d18.554208548229163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1106daf7807%3A0x1c2bb518b1315e6c!2sCommercial%20House%2C%20Central%20Ave%2C%20Nilanjali%20Society%2C%20Kalyani%20Nagar%2C%20Pune%2C%20Maharashtra%20411006!5e0!3m2!1sen!2sin!4v1605943609492!5m2!1sen!2sin"></iframe>
       </div>
     </div>
   </section>
@@ -500,8 +507,11 @@
                   <h6>Address</h6>
                 </li>
                 <li>
-                  <p>Melbourne,south Brisbane,
-                    <br>QLD 4101,Aurstralia.</p>
+                  <p>A : Shop No C, Commercial House,Jupitor CHS
+                      Nr Ganesh Temple,Kalyani Nagar
+                      
+
+                    <br>Pune, India 411014</p>
                 </li>
               </ul>
               <ul>
@@ -509,14 +519,17 @@
                   <h6>Phone</h6>
                 </li>
                 <li>
-                  <p>+ 1 (234) 567 8901</p>
+                    <p># +91 20-4860102</p>
+                    <p># +91 9325656756</p>
+                    <p># +91 9922514719</p>
                 </li>
                 <li class="my-2">
                   <h6>Email</h6>
                 </li>
                 <li>
                   <p>
-                    <a href="mailto:info@example.com">info@example.com</a>
+                    <a href="mailto:info@example.com">www.travelogimmigration.com
+</a>
                   </p>
                 </li>
               </ul>
@@ -524,8 +537,30 @@
           </div>
         </div>
         <div class="footer-bottom-info col-lg-4 col-md-4 ">
-          <h4 class="pb-lg-4 pb-md-3 pb-3 ">Twitter Us</h4>
-          <div class="footer-office-hour">
+          <h4 class="pb-lg-4 pb-md-3 pb-3 ">Follow Us</h4>
+          <div class="social-icons mb-lg-4 mb-3">
+          <ul>
+            <li class="facebook">
+              <a href="#">
+                <span class="fa fa-facebook"></span>
+              </a>
+            </li>
+            
+            <li class="rss">
+              <a href="#">
+                <span class="fa fa-instagram"></span>
+              </a>
+            </li>
+
+            <li class="twitter">
+              <a href="#">
+                <span class="fa fa-google-plus"></span>
+              </a>
+            </li>
+
+          </ul>
+        </div>
+          <!--<div class="footer-office-hour">
             <ul>
               <li>
                 <p>sit amet consectetur adipiscing</p>
@@ -550,8 +585,8 @@
                 <span class="font-italic">Posted 3 days ago.</span>
               </li>
             </ul>
-          </div>
-        </div>
+          </div>-->
+        </div> 
         <div class="footer-bottom-info col-lg-4 col-md-4 ">
           <h4 class="pb-lg-4 pb-md-3 pb-3 ">NewsLetter</h4>
           <div class="newsletter">
@@ -563,7 +598,7 @@
             </form>
           </div>
           <div class="footer-office-hour mt-3">
-            <p>vehicula velit sagittis vehicula. Duis posuere ex in mollis iaculis. Suspendisse tincidunt velit sagittis vehicula</p>
+            <p>Mail for more inquries</p>
           </div>
         </div>
       </div>
@@ -579,8 +614,8 @@
   <!--footer-copy-right -->
   <footer class="bottem-wthree-footer text-center py-md-4 py-3">
     <p>
-      © 2019 Organic Store. All Rights Reserved | Design by
-      <a href="http://www.W3Layouts.com" target="_blank">W3Layouts</a>
+      © 2020 Farmer Study| All Rights Reserved |
+      
     </p>
   </footer>
   <!--//footer-copy-right -->
