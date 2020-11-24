@@ -254,42 +254,42 @@
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal1">
-              <img src="images/F1.jpg" alt="news image" class="img-fluid">
+              <img src="images/n11.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal2">
-              <img src="images/f7.jpg" alt="news image" class="img-fluid">
+              <img src="images/n22.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal3">
-              <img src="images/f3.jpg" alt="news image" class="img-fluid">
+              <img src="images/n33.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal4">
-              <img src="images/f4.jpg" alt="news image" class="img-fluid">
+              <img src="images/n44.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal5">
-              <img src="images/f6.jpg" alt="news image" class="img-fluid">
+              <img src="images/n55.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal6">
-              <img src="images/f8.jpg" alt="news image" class="img-fluid">
+              <img src="images/f6.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
@@ -297,7 +297,7 @@
       <!-- popup-->
       <div id="gal1" class="popup-effect">
         <div class="popup">
-          <img src="images/F1.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/n11.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -305,7 +305,7 @@
       <!-- popup-->
       <div id="gal2" class="popup-effect">
         <div class="popup">
-          <img src="images/f7.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/n22.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -313,7 +313,7 @@
       <!-- popup-->
       <div id="gal3" class="popup-effect">
         <div class="popup">
-          <img src="images/f3.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/n33.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -321,7 +321,7 @@
       <!-- popup-->
       <div id="gal4" class="popup-effect">
         <div class="popup">
-          <img src="images/f4.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/n44.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -329,7 +329,7 @@
       <!-- popup-->
       <div id="gal5" class="popup-effect">
         <div class="popup">
-          <img src="images/f6.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/n55.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
@@ -337,7 +337,7 @@
       <!-- popup-->
       <div id="gal6" class="popup-effect">
         <div class="popup">
-          <img src="images/f8.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/f6.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>
