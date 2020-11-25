@@ -3,13 +3,13 @@
    Author URL: http://w3layouts.com
    License: Creative Commons Attribution 3.0 Unported
    License URL: http://creativecommons.org/licenses/by/3.0/
-   -->
-<!DOCTYPE html>
-<html lang="zxx">
+ -->
+ <!DOCTYPE html>
+ <html lang="zxx">
 
-<?php include 'includes/head.php';?>
+ <?php include 'includes/head.php';?>
 
-<body>
+ <body>
   <!-- //banner -->
   <div class="banner-left-side" id="home">
     <!-- header -->
@@ -64,22 +64,25 @@
         </p>-->
       </div>
       <div class="row">
-        <div class="col-lg-5 video-info-img text-center position-relative">
+        <!-- <div class="col-lg-5 video-info-img text-center position-relative">
           <div class="abut-img-w3l">
             <img src="images/bb1.jpg" alt="" class="img-fluid">
           </div>
           <div class="abut-img-two">
             <img src="images/bb2.jpg" alt="" class="img-fluid">
           </div>
-        </div>
-        <div class="col-lg-7 left-abut-txt ">
+        </div> -->
+        <div class="col-lg-12 left-abut-txt ">
           <div class="about-right-grid">
-            <h2 class="mb-3">Our food should be our medicine,Our medicine organics should be our food your health</h2>
-            <p>delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit sed do eiusmod delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum dolor sit amet,
-              consectetur delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum dolor sit amet, consectetur
-              adipiscing elit sed do eiusmod delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum
-              dolor sit amet, consectetur</p>
+            <!-- <h2 class="mb-3">Our food should be our medicine,Our medicine organics should be our food your health</h2> -->
+            <p>We provide International Work Experience program for Fresher and  even for Experience professional in the U.S.A., Europe and Australia. It has main intention to improve skills, knowledge, and experience in their career field. So person can grow their career graph which helps them to become strong in this competitive world. Once Person get International work experience then he will have more confidence to face challenges, find out solutions and establish him in the competitive world. Here Person gets opportunity to work under the guidance of seniors, experienced people. It helps him to improve his basic skills which he learns in the study.  He also gets opportunity to use his skills and practice his theoretical knowledge which he has got in the study.  He also gets opportunity to work under different culture, different environment which makes him versatile.
+              We also consult students in their Study Abroad interest. We have tie up with many colleges and universities at direct and indirect level. We help students to select to right college, university accordingly to their Resume, financial background and their own interest. We help students to get them educational loan, fees submission, hostel finding, documentation work, visa appointment etc.<br>
+
+              We also provide Immigration Services for Canada, Australia and New Zealand. Many youth has dream to settle in these countries .So we consult candidates and guide them which country option will be suitable for them according to their work experience and Resume and IELTS score. We do assessment of their resume and do documentation work for them with the guidance of authorized Immigration lawyers who has license.<br>
+
+              We also run German Language, French Language, IELTS classes for students and professionals which is basic requirement for their
+
+            international career now a day.  To having knowledge ,speaking writing and understanding  quality of above mention languages give  an advantage to everyone  to find more work opportunities at international level and even in the own country . Because these languages are widely use in the world and many big companies are from German, France which are established in the most of the part of the world.  So to be more versatile in the career, to grab the opportunities, having knowledge of other languages is always an advantage.</p>
           </div>
         </div>
       </div>
@@ -91,20 +94,39 @@
     <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
       <div class="row">
         <div class="col-lg-7 store-details">
-          <h4 class="mb-3">Store Information</h4>
-          <h6 class="mb-2">Since:1974</h6>
-          <p>delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing
+          <h4 class="mb-3">Internship /Work Experience Fields </h4>
+          <div class="row">
+            <div class="col-lg-6">
+              Animal Production <br>
+              Stock Breeding <br>
+              Greenhouse Management<br> 
+              Vegetable Production <br>
+              Flower Production <br>
+              Ecology
+            </div>
+            <div class="col-lg-6">
+              Agronomy <br>
+              Mechanization <br>
+              Veterinary <br>
+              Dairy Farm<br>
+              Horse Farm<br>
+              And other agriculture related branches 
+
+            </div>
+          </div>
+          <!-- <h6 class="mb-2">Since:1974</h6> -->
+          <!-- <p>delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing
             elit sed do eiusmod delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum dolor sit amet,
             consectetur delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum dolor sit amet, consectetur
             adipiscing elit sed do eiusmod delectus reiciendis maiores alias consequatur aut.maiores alias Lorem ipsum dolor
-            sit amet, consectetur</p>
-          <div class="view-buttn mt-md-4 mt-3">
+          sit amet, consectetur</p> -->
+          <!-- <div class="view-buttn mt-md-4 mt-3">
             <a href="#blog">Read More</a>
-          </div>
+          </div> -->
         </div>
 
         <div class="col-lg-5 store-image-right">
-          <img src="images/bb3.jpg" alt="" class="img-fluid">
+          <img src="images/bb34.jpg" alt="" class="img-fluid">
         </div>
       </div>
     </div>
@@ -113,40 +135,40 @@
   <!-- service -->
   <section class="service py-lg-4 py-md-4 py-sm-3 py-3" id="service">
     <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
-      <h3 class="title text-center mb-2">Services</h3>
+      <h3 class="title text-center mb-2">Diploma Course Details</h3>
       <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et Lorem ipsum
+        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et Lorem ipsum -->
         </p>
       </div>
       <div class="row">
         <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
           <div class="grid-wthree-service">
-            <img src="images/l1.jpg" alt="news image" class="img-fluid">
+            <img src="images/seed-planting.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
-                Vegatables
+                Seed Plantation and Fertilization
               </h4>
-              <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
           <div class="grid-wthree-service">
-            <img src="images/ab2.jpg" alt="news image" class="img-fluid">
+            <img src="images/soiltest.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
-                Fresh Fruits
+               Soil Testing
               </h4>
-              <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
           <div class="grid-wthree-service">
-            <img src="images/ab3.jpg" alt="news image" class="img-fluid">
+            <img src="images/plantbiochemistry.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
-                Garden Tillage
+                Plant Biochemistry
               </h4>
               <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
             </div>
@@ -157,9 +179,9 @@
             <img src="images/ab4.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
-                Awesome Wheats
+               Organic Farming
               </h4>
-              <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
             </div>
           </div>
         </div>
@@ -168,9 +190,9 @@
             <img src="images/ab1.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
-                Garden Tillage
+               Plantation Breeding
               </h4>
-              <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
             </div>
           </div>
         </div>
@@ -181,11 +203,14 @@
               <h4>
                 Agro Machinery
               </h4>
-              <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
             </div>
           </div>
         </div>
       </div>
+      <div class="view-buttn mt-md-4 mt-3">
+            <a href="course_details.php">View More</a>
+          </div>
     </div>
   </section>
   <!--//service -->
@@ -448,11 +473,11 @@
   ..>
   <!--//blog -->
   <section><div class="container py-lg-5 py-md-4 py-sm-4 py-3">
-      <h3 class="title text-center mb-2">MAP</h3>
-      <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
-        <p>Direction for locate to us 
-        </p>
-      </div>
+    <h3 class="title text-center mb-2">MAP</h3>
+    <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
+      <p>Direction for locate to us 
+      </p>
+    </div>
     <div class="container-fulid">
       <div class="address_mail_footer_grids">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.75850547596!2d73.89992562894783!3d18.554208548229163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1106daf7807%3A0x1c2bb518b1315e6c!2sCommercial%20House%2C%20Central%20Ave%2C%20Nilanjali%20Society%2C%20Kalyani%20Nagar%2C%20Pune%2C%20Maharashtra%20411006!5e0!3m2!1sen!2sin!4v1605943609492!5m2!1sen!2sin"></iframe>
@@ -508,58 +533,58 @@
                 </li>
                 <li>
                   <p>A : Shop No C, Commercial House,Jupitor CHS
-                      Nr Ganesh Temple,Kalyani Nagar
-                      
+                    Nr Ganesh Temple,Kalyani Nagar
+
 
                     <br>Pune, India 411014</p>
-                </li>
-              </ul>
-              <ul>
-                <li class="my-2">
-                  <h6>Phone</h6>
-                </li>
-                <li>
+                  </li>
+                </ul>
+                <ul>
+                  <li class="my-2">
+                    <h6>Phone</h6>
+                  </li>
+                  <li>
                     <p># +91 20-4860102</p>
                     <p># +91 9325656756</p>
                     <p># +91 9922514719</p>
-                </li>
-                <li class="my-2">
-                  <h6>Email</h6>
-                </li>
-                <li>
-                  <p>
-                    <a href="mailto:info@example.com">www.travelogimmigration.com
-</a>
-                  </p>
-                </li>
-              </ul>
+                  </li>
+                  <li class="my-2">
+                    <h6>Email</h6>
+                  </li>
+                  <li>
+                    <p>
+                      <a href="mailto:info@example.com">www.travelogimmigration.com
+                      </a>
+                    </p>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="footer-bottom-info col-lg-4 col-md-4 ">
-          <h4 class="pb-lg-4 pb-md-3 pb-3 ">Follow Us</h4>
-          <div class="social-icons mb-lg-4 mb-3">
-          <ul>
-            <li class="facebook">
-              <a href="#">
-                <span class="fa fa-facebook"></span>
-              </a>
-            </li>
-            
-            <li class="rss">
-              <a href="#">
-                <span class="fa fa-instagram"></span>
-              </a>
-            </li>
+          <div class="footer-bottom-info col-lg-4 col-md-4 ">
+            <h4 class="pb-lg-4 pb-md-3 pb-3 ">Follow Us</h4>
+            <div class="social-icons mb-lg-4 mb-3">
+              <ul>
+                <li class="facebook">
+                  <a href="#">
+                    <span class="fa fa-facebook"></span>
+                  </a>
+                </li>
 
-            <li class="twitter">
-              <a href="#">
-                <span class="fa fa-google-plus"></span>
-              </a>
-            </li>
+                <li class="rss">
+                  <a href="#">
+                    <span class="fa fa-instagram"></span>
+                  </a>
+                </li>
 
-          </ul>
-        </div>
+                <li class="twitter">
+                  <a href="#">
+                    <span class="fa fa-google-plus"></span>
+                  </a>
+                </li>
+
+              </ul>
+            </div>
           <!--<div class="footer-office-hour">
             <ul>
               <li>

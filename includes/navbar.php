@@ -1,13 +1,13 @@
 <nav>
   <div class="container" style="max-width: 100%">
     <div class="row">
-      <div class="col-lg-2 logo">
+      <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 logo">
         
-        <img src="images/logo.png" width="40%">
+        <img src="images/logo.png" width="80px" height="80px">
 
       </div>
 
-      <div class="col-lg-10" style="padding: 1em 2em;">
+      <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10" style="padding: 1em 2em;">
         <label for="drop" class="toggle">Menu</label>
         <input type="checkbox" id="drop">
         <ul class="menu mt-2">
@@ -18,7 +18,7 @@
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="#service">Services</a>
+            <a href="#service">Course Details</a>
           </li>
           <li>
             <!-- First Tier Drop Down -->
@@ -35,9 +35,9 @@
             <li>
               <a href="#gallery">Gallery</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="#blog">Blog</a>
-            </li>
+            </li> -->
             <li>
               <a href="#contact">Contact Us</a>
             </li>

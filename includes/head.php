@@ -1,5 +1,6 @@
 <head>
-  <title>Organic Store Agriculture Category bootstrap Responsive web Template| Home :: w3layouts</title>
+  <title>Farmer Study</title>
+  <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
   <!--meta tags -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
