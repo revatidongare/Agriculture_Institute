@@ -176,7 +176,7 @@
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
           <div class="grid-wthree-service">
-            <img src="images/ab4.jpg" alt="news image" class="img-fluid">
+            <img src="images/organic-farming.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
                Organic Farming
@@ -187,7 +187,7 @@
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
           <div class="grid-wthree-service">
-            <img src="images/ab1.jpg" alt="news image" class="img-fluid">
+            <img src="images/plantation farming.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
                Plantation Breeding
@@ -198,7 +198,7 @@
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
           <div class="grid-wthree-service">
-            <img src="images/ab2.jpg" alt="news image" class="img-fluid">
+            <img src="images/agro.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
               <h4>
                 Agro Machinery
@@ -314,7 +314,7 @@
         <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
           <div class="gallery-grids">
             <a href="#gal6">
-              <img src="images/f6.jpg" alt="news image" class="img-fluid">
+              <img src="images/f7.jpg" alt="news image" class="img-fluid">
             </a>
           </div>
         </div>
@@ -362,7 +362,7 @@
       <!-- popup-->
       <div id="gal6" class="popup-effect">
         <div class="popup">
-          <img src="images/f6.jpg" alt="Popup Image" class="img-fluid">
+          <img src="images/f7.jpg" alt="Popup Image" class="img-fluid">
           <a class="close" href="#gallery">×</a>
         </div>
       </div>

@@ -12,7 +12,7 @@
         <input type="checkbox" id="drop">
         <ul class="menu mt-2">
           <li class="active">
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
           </li>
           <li>
             <a href="#about">About</a>
