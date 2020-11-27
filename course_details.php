@@ -238,8 +238,8 @@
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">A soil test is important for several reasons: to optimize crop production, to protect the environment from contamination by runoff and leaching of excess fertilizers, to aid in the diagnosis of plant culture problems, to improve the nutritional balance of the growing media and to save money and conserve energy by applying only the amount of fertilizer needed.</p>
+        <h5 class="card-title">Card </h5>
+        <p class="card-text"> A soil test is important for several reasons: to optimize crop production, to protect the environment from contamination by runoff and leaching of excess fertilizers, to aid in the diagnosis of plant culture problems, to improve the nutritional balance of the growing media and to save money and conserve energy by applying only the amount of fertilizer needed.</p>
         <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
       </div>
     </div>
@@ -261,7 +261,7 @@
             <h4 class="mb-2">
               <a href="#about">Seed Plantation and Fertilization  </a>
             </h4>
-            <p>Placing fertilizer in-furrow with the seed during planting is a common practice in small grain production and to some extent in row crop production. Placing fertilizer with the seed can be an effective and beneficial management practice, but over application and mismanagement can result in seedling damage, and ultimate stand and yield loss. The type of crop, fertilizer source, row spacing, and soil environment all affect how much fertilizer can be safely applied with seed.</p>
+            <p>Placing fertilizer in-furrow with the seed during planting is a common practice in small grain production and to some extent in row crop production. </p>
             <div class="news-date-list pt-2">
               <!-- <ul>
                 <li class="mr-1">
@@ -319,7 +319,7 @@
             <h4 class="mb-2">
               <a href="#about">Plant Biochemistry </a>
             </h4>
-            <p>Plant Biochemistry is not only an important field of basic science explaining the molecular function of a plant, but is also an applied science that is in the position to contribute to the solution of agricultural and pharmaceutical problems. Plant Biochemistry sometimes called Plant Biochemistry, is the study of chemical processes within and relating to living organisms.</p>
+            <p>Plant Biochemistry is not only an important field of basic science explaining the molecular function of a plant, but is also an applied science that is in the position to contribute to the solution of agricultural and pharmaceutical problems.</p>
             <div class="news-date-list pt-2">
               <!-- <ul>
                 <li class="mr-1">
@@ -337,7 +337,7 @@
 
 
     </div>
-    <div class="container py-lg-5 py-md-4 py-sm-4 py-3">      
+    <div class="container py-lg-5 py-md-4 py-sm-8 py-3">      
       <div class="row">
         <div class="blog-wthree-color col-lg-4 position-relative my-3">
           <div class="w3ls-post-img">
@@ -346,24 +346,26 @@
           </div>
           <div class="blog-txt-info">
             <h4 class="mb-2">
-              <a href="#about">Health Benefits of a Raw Food </a>
+              <a href="#about">Organic Farming</a>
             </h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
+            <p>Organic farming is a method of crop and livestock production that involves much more than choosing not to use pesticides, fertilizers, genetically modified organisms, antibiotics and growth hormones.
+            Organic production is a holistic system designed to optimize the productivity and fitness of diverse communities within the agro-ecosystem, including soil organisms, plants, livestock and people.
+            </p>
             <div class="news-date-list pt-2">
-              <ul>
+              <!--<ul>
                 <li class="mr-1">
                   <a href="#">12/4/2019</a>
                 </li>
                 <li>
                   <a href="#">3 Tags</a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
         <div class="blog-wthree-color col-lg-4 position-relative my-3">
           <div class="w3ls-post-img">
-            <img src="images/bb3.jpg" class="img-fluid" alt="">
+            <img src="images/1.jpg" class="img-fluid" alt="">
             <!-- <div class="blog-info">
               <a href="#about">
                 <ul>
@@ -375,24 +377,25 @@
           </div>
           <div class="blog-txt-info">
             <h4 class="mb-2">
-              <a href="#about">Health Benefits of a Raw Food </a>
+              <a href="#about">Plantation Breeding</a>
             </h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
+            <p>A plantation is a large-scale estate, generally centered on a plantation house, meant for farming that specializes in cash crops. The crops that are grown include cotton, coffee, tea, cocoa, sugar cane, opium, sisal, oil seeds, oil palms, fruits, rubber trees and forest trees.</p>
             <div class="news-date-list pt-2">
-              <ul>
+              
+              <!--<ul>
                 <li class="mr-1">
                   <a href="#">12/4/2019</a>
                 </li>
                 <li>
                   <a href="#">3 Tags</a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
         <div class="blog-wthree-color col-lg-4 position-relative my-3">
           <div class="w3ls-post-img">
-            <img src="images/g4.jpg" class="img-fluid" alt="">
+            <img src="images/2.jpg" class="img-fluid" alt="">
             <!-- <div class="blog-info">
               <a href="#about">
                 <ul>
@@ -404,18 +407,18 @@
           </div>
           <div class="blog-txt-info">
             <h4 class="mb-2">
-              <a href="#about">Health Benefits of a Raw Food </a>
+              <a href="#about">Principles of Environmental Sciences</a>
             </h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
+            <p>Principles of Environmental Sciences provides a comprehensive picture of the principles, concepts and methods that are applicable to problems originating from the interaction between the living and non-living environment and mankind. Both the analysis of such problems and the way solutions to environmental problems may work in specific societal contexts are addressed.</p>
             <div class="news-date-list pt-2">
-              <ul>
+              <!--<ul>
                 <li class="mr-1">
                   <a href="#">12/4/2019</a>
                 </li>
                 <li>
                   <a href="#">3 Tags</a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
@@ -429,29 +432,29 @@
       <div class="row">
         <div class="blog-wthree-color col-lg-4 position-relative my-3">
           <div class="w3ls-post-img">
-            <img src="images/bb2.jpg" class="img-fluid" alt="">
+            <img src="images/3.jpg" class="img-fluid" alt="">
            
           </div>
           <div class="blog-txt-info">
             <h4 class="mb-2">
-              <a href="#about">Health Benefits of a Raw Food </a>
+              <a href="#about">Environmental Awareness program</a>
             </h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
+            <p>Environmental awareness is to understand the fragility of our environment and the importance of its protection. </p>
             <div class="news-date-list pt-2">
-              <ul>
+             <!-- <ul>
                 <li class="mr-1">
                   <a href="#">12/4/2019</a>
                 </li>
                 <li>
                   <a href="#">3 Tags</a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
         <div class="blog-wthree-color col-lg-4 position-relative my-3">
           <div class="w3ls-post-img">
-            <img src="images/bb3.jpg" class="img-fluid" alt="">
+            <img src="images/3.jpg" class="img-fluid" alt="">
             <!-- <div class="blog-info">
               <a href="#about">
                 <ul>
@@ -463,18 +466,18 @@
           </div>
           <div class="blog-txt-info">
             <h4 class="mb-2">
-              <a href="#about">Health Benefits of a Raw Food </a>
+              <a href="#about">Agricultural Role in Global Economy</a>
             </h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
+            <p>Agriculture plays a crucial role in the economy of developing countries, and provides the main source of food, income and employment to their rural populations.</p>
             <div class="news-date-list pt-2">
-              <ul>
+              <!--<ul>
                 <li class="mr-1">
                   <a href="#">12/4/2019</a>
                 </li>
                 <li>
                   <a href="#">3 Tags</a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
@@ -492,18 +495,18 @@
           </div>
           <div class="blog-txt-info">
             <h4 class="mb-2">
-              <a href="#about">Health Benefits of a Raw Food </a>
+              <a href="#about">Irrigation Process</a>
             </h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
+            <p>Irrigation is the process of applying water to soil, primarily to meet the water needs of growing plants. Water from rivers, reservoirs, lakes, or aquifers is pumped or flows by gravity through pipes, canals, ditches, or even natural streams.</p>
             <div class="news-date-list pt-2">
-              <ul>
+             <!-- <ul>
                 <li class="mr-1">
                   <a href="#">12/4/2019</a>
                 </li>
                 <li>
                   <a href="#">3 Tags</a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
