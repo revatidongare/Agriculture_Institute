@@ -15,10 +15,10 @@
             <a href="index.php">Home</a>
           </li>
           <li>
-            <a href="#about">About</a>
+            <a href="about.php">About</a>
           </li>
           <li>
-            <a href="#service">Course Details</a>
+            <a href="course_details.php">Course Details</a>
           </li>
           <li>
             <!-- First Tier Drop Down -->
@@ -33,13 +33,13 @@
               </ul>
             </li>-->
             <li>
-              <a href="#gallery">Gallery</a>
+              <a href="gallery.php">Gallery</a>
             </li>
             <!-- <li>
               <a href="#blog">Blog</a>
             </li> -->
             <li>
-              <a href="#contact">Contact Us</a>
+              <a href="contact.php">Contact Us</a>
             </li>
         </ul>
       </div>
