@@ -218,7 +218,7 @@
   <section class="veg-info py-lg-4 py-md-4 py-sm-3 py-3">
     <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
       <div class="row">
-        <div class="col-lg-7">
+        <!-- <div class="col-lg-7">
           <img src="images/bb4.jpg" alt="news image" class="img-fluid">
         </div>
         <div class="col-lg-5 veg-list-text">
@@ -262,7 +262,7 @@
               <img src="images/v4.jpg" alt="news image" class="img-fluid">
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>

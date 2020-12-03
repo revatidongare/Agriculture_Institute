@@ -133,7 +133,7 @@
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/environmental-awareness.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -148,7 +148,7 @@
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/agriworldeconomy.png" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -162,7 +162,7 @@
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/Horticulture-Department.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -176,7 +176,7 @@
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/irrigation-system-design.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -190,7 +190,7 @@
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/agriworldeconomy.png" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -211,7 +211,7 @@ Plant tissue culture is used widely in the plant sciences, forestry, and in hort
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/agrimachine.jpeg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -226,7 +226,7 @@ We provide Vast knowledge and information on What advance equipments are availab
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/nursery.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -240,7 +240,7 @@ We provide Vast knowledge and information on What advance equipments are availab
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/milk.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -253,7 +253,7 @@ We provide Vast knowledge and information on What advance equipments are availab
 </div><div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/poultry-farm.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -268,7 +268,7 @@ In the United States, the national organization overseeing poultry production is
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/Farm-Crop.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -279,10 +279,11 @@ In the United States, the national organization overseeing poultry production is
     </div>
   </div>
 </div>
+
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/vegetable.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -296,7 +297,7 @@ In the United States, the national organization overseeing poultry production is
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/animalcare.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -310,7 +311,7 @@ In the United States, the national organization overseeing poultry production is
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/addon.png" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -324,49 +325,7 @@ In the United States, the national organization overseeing poultry production is
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
-    </div>
-    <div class="col-md-8 col-lg-8 col-sm-8">
-      <div class="card-body">
-        <h5 class="card-title">Vegetable Production </h5>
-        <p class="card-text"> Success in vegetable production whether it is organic or not is greatly depended on a well thought out plant. Key factors that should be considered carefully during the planning stage of the farming operation are: site selection, water supply and quality, crop and variety selection, and, market development.</p>
-        <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
-      </div>
-    </div>
-  </div>
-</div>
-<div class="card mb-3" >
-  <div class="row no-gutters">
-    <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
-    </div>
-    <div class="col-md-8 col-lg-8 col-sm-8">
-      <div class="card-body">
-        <h5 class="card-title">Animal Care </h5>
-        <p class="card-text"> Animal care and service workers train, feed, groom, and exercise animals. They also clean, disinfect, and repair animal cages. They play with the animals, provide companionship, and observe behavioral changes that could indicate illness or injury</p>
-        <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
-      </div>
-    </div>
-  </div>
-</div>
-<div class="card mb-3" >
-  <div class="row no-gutters">
-    <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
-    </div>
-    <div class="col-md-8 col-lg-8 col-sm-8">
-      <div class="card-body">
-        <h5 class="card-title">Add On Business with Agriculture </h5>
-        <p class="card-text"> If you think that farmers have endless suffering in their lives due to drought, loans, and ultimate rains then we have found a way out. Now even small-scale farmers can generate more revenue from basic farming. There are various ways to earn good money in agriculture. If you want to make a career in agriculture then we will help you with different profitable ideas to go ahead in this sector.</p>
-        <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
-      </div>
-    </div>
-  </div>
-</div>
-<div class="card mb-3" >
-  <div class="row no-gutters">
-    <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/maketing.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -380,7 +339,7 @@ In the United States, the national organization overseeing poultry production is
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/language.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
@@ -394,7 +353,7 @@ In the United States, the national organization overseeing poultry production is
 <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4 col-lg-4 col-sm-4">
-      <img src="images/course/soiltest.jpg" class="card-img" alt="...">
+      <img src="images/course/Personality-Development3.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8 col-lg-8 col-sm-8">
       <div class="card-body">
