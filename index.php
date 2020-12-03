@@ -49,17 +49,23 @@
           <h5>Management Institute </h5>
         </div>
         <div class="slide-info-txt">
-          <p>We offer Diploma in agriculture with work experiece in <b>Germany, Australia & U.S.A.</b></p>
+          <p>We offer Diploma in agriculture with work experiece in <b>Germany, Australia & U.S.A.</b>
+            <br>100 %  Cash Back
+            <br>         Recognized by American Institute
+            <br>     International  Work Experience
+            <br> Expand Your Global Network
+            <br>Personal, Academic, And Professional Growth
+            <br>Career Evaluation</p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <!-- //banner -->
-  <!-- about -->
-  <section class="about py-lg-4 py-md-4 py-sm-3 py-3" id="about">
-    <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
-      <h3 class="title text-center mb-2">About Us</h3>
-      <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
+    <!-- //banner -->
+    <!-- about -->
+    <section class="about py-lg-4 py-md-4 py-sm-3 py-3" id="about">
+      <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
+        <h3 class="title text-center mb-2">About Us</h3>
+        <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
         <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et Lorem ipsum
         </p>-->
       </div>
@@ -158,75 +164,75 @@
             <div class="ser-text-wthree mt-3">
               <h4><br>
                Soil Testing
-              </h4>
-              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
-          <div class="grid-wthree-service">
-            <img src="images/plantbiochemistry.jpg" alt="news image" class="img-fluid">
-            <div class="ser-text-wthree mt-3">
-              <h4><br>
-                Plant Biochemistry
-              </h4>
-              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
-          <div class="grid-wthree-service">
-            <img src="images/organic-farming.jpg" alt="news image" class="img-fluid">
-            <div class="ser-text-wthree mt-3">
-              <h4>
-               Organic Farming
-              </h4>
-              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
-          <div class="grid-wthree-service">
-            <img src="images/plantation farming.jpg" alt="news image" class="img-fluid">
-            <div class="ser-text-wthree mt-3">
-              <h4>
-               Plantation Breeding
-              </h4>
-              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
-          <div class="grid-wthree-service">
-            <img src="images/agro.jpg" alt="news image" class="img-fluid">
-            <div class="ser-text-wthree mt-3">
-              <h4>
-                Agro Machinery
-              </h4>
-              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
-            </div>
+             </h4>
+             <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
+           </div>
+         </div>
+       </div>
+       <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
+        <div class="grid-wthree-service">
+          <img src="images/plantbiochemistry.jpg" alt="news image" class="img-fluid">
+          <div class="ser-text-wthree mt-3">
+            <h4><br>
+              Plant Biochemistry
+            </h4>
+            <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
           </div>
         </div>
       </div>
-      <div class="view-buttn mt-md-4 mt-3">
-            <a href="course_details.php">View More</a>
-          </div>
+      <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
+        <div class="grid-wthree-service">
+          <img src="images/organic-farming.jpg" alt="news image" class="img-fluid">
+          <div class="ser-text-wthree mt-3">
+            <h4>
+             Organic Farming
+           </h4>
+           <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
+         </div>
+       </div>
+     </div>
+     <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
+      <div class="grid-wthree-service">
+        <img src="images/plantation farming.jpg" alt="news image" class="img-fluid">
+        <div class="ser-text-wthree mt-3">
+          <h4>
+           Plantation Breeding
+         </h4>
+         <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
+       </div>
+     </div>
+   </div>
+   <div class="col-lg-4 col-md-6 col-sm-6 ser-icon text-center my-3">
+    <div class="grid-wthree-service">
+      <img src="images/agro.jpg" alt="news image" class="img-fluid">
+      <div class="ser-text-wthree mt-3">
+        <h4>
+          Agro Machinery
+        </h4>
+        <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
+      </div>
     </div>
-  </section>
-  <!--//service -->
-  <!-- vegetable-info -->
-  <section class="veg-info py-lg-4 py-md-4 py-sm-3 py-3">
-    <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
-      <!-- <div class="row"> -->
-        <h3 class="title text-center mb-2">Our Ventures </h3>
-        
-        <div class="owl-carousel clients-carousel">
-      <img src="images/clients/hotel world.png" alt="" style="height: 150px";>
-      <img src="images/clients/Travelog-immigration.png" alt=""style="height: 150px";>
-      <img src="images/clients/jwdmclogo.png" alt=""style="height: 150px";>
-      <img src="images/clients/Travelog-Holidays.png" alt=""style="height: 150px";>
-      <img src="images/clients/trustdoc-final.png" alt=""style="height: 150px";>
-          </div>
+  </div>
+</div>
+<div class="view-buttn mt-md-4 mt-3">
+  <a href="course_details.php">View More</a>
+</div>
+</div>
+</section>
+<!--//service -->
+<!-- vegetable-info -->
+<section class="veg-info py-lg-4 py-md-4 py-sm-3 py-3">
+  <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
+    <!-- <div class="row"> -->
+      <h3 class="title text-center mb-2">Our Ventures </h3>
+      
+      <div class="owl-carousel clients-carousel">
+        <img src="images/clients/hotel world.png" alt="" style="height: 150px";>
+        <img src="images/clients/Travelog-immigration.png" alt=""style="height: 150px";>
+        <img src="images/clients/jwdmclogo.png" alt=""style="height: 150px";>
+        <img src="images/clients/Travelog-Holidays.png" alt=""style="height: 150px";>
+        <img src="images/clients/trustdoc-final.png" alt=""style="height: 150px";>
+      </div>
         <!-- <div class="col-lg-7">
           <img src="images/bb4.jpg" alt="news image" class="img-fluid">
         </div>
@@ -272,114 +278,114 @@
             </div>
           </div>
         </div> -->
-      <!-- </div> -->
-    </div>
-  </section>
-  <!--//vegetable-info -->
-  <!-- gallery -->
-  <section class="gallery py-lg-4 py-md-3 py-sm-3 py-3" id="gallery">
-    <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
-      <h3 class="title text-center mb-2">Gallery </h3>
-      <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
-        <p>Pictures speaks loud than words.Here presenting the pictures related Farmer Study.
-        </p>
+        <!-- </div> -->
       </div>
-      <div class="row gallery-info">
-        <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
-          <div class="gallery-grids">
-            <a href="#gal1">
-              <img src="images/n11.jpg" alt="news image" class="img-fluid">
-            </a>
+    </section>
+    <!--//vegetable-info -->
+    <!-- gallery -->
+    <section class="gallery py-lg-4 py-md-3 py-sm-3 py-3" id="gallery">
+      <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
+        <h3 class="title text-center mb-2">Gallery </h3>
+        <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
+          <p>Pictures speaks loud than words.Here presenting the pictures related Farmer Study.
+          </p>
+        </div>
+        <div class="row gallery-info">
+          <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
+            <div class="gallery-grids">
+              <a href="#gal1">
+                <img src="images/n11.jpg" alt="news image" class="img-fluid">
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
+            <div class="gallery-grids">
+              <a href="#gal2">
+                <img src="images/n22.jpg" alt="news image" class="img-fluid">
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
+            <div class="gallery-grids">
+              <a href="#gal3">
+                <img src="images/n33.jpg" alt="news image" class="img-fluid">
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
+            <div class="gallery-grids">
+              <a href="#gal4">
+                <img src="images/n44.jpg" alt="news image" class="img-fluid">
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
+            <div class="gallery-grids">
+              <a href="#gal5">
+                <img src="images/n55.jpg" alt="news image" class="img-fluid">
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
+            <div class="gallery-grids">
+              <a href="#gal6">
+                <img src="images/f7.jpg" alt="news image" class="img-fluid">
+              </a>
+            </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
-          <div class="gallery-grids">
-            <a href="#gal2">
-              <img src="images/n22.jpg" alt="news image" class="img-fluid">
-            </a>
+        <!-- popup-->
+        <div id="gal1" class="popup-effect">
+          <div class="popup">
+            <img src="images/n11.jpg" alt="Popup Image" class="img-fluid">
+            <a class="close" href="#gallery">×</a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
-          <div class="gallery-grids">
-            <a href="#gal3">
-              <img src="images/n33.jpg" alt="news image" class="img-fluid">
-            </a>
+        <!-- //popup -->
+        <!-- popup-->
+        <div id="gal2" class="popup-effect">
+          <div class="popup">
+            <img src="images/n22.jpg" alt="Popup Image" class="img-fluid">
+            <a class="close" href="#gallery">×</a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
-          <div class="gallery-grids">
-            <a href="#gal4">
-              <img src="images/n44.jpg" alt="news image" class="img-fluid">
-            </a>
+        <!-- //popup -->
+        <!-- popup-->
+        <div id="gal3" class="popup-effect">
+          <div class="popup">
+            <img src="images/n33.jpg" alt="Popup Image" class="img-fluid">
+            <a class="close" href="#gallery">×</a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
-          <div class="gallery-grids">
-            <a href="#gal5">
-              <img src="images/n55.jpg" alt="news image" class="img-fluid">
-            </a>
+        <!-- //popup -->
+        <!-- popup-->
+        <div id="gal4" class="popup-effect">
+          <div class="popup">
+            <img src="images/n44.jpg" alt="Popup Image" class="img-fluid">
+            <a class="close" href="#gallery">×</a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 gallery-img-grid my-3">
-          <div class="gallery-grids">
-            <a href="#gal6">
-              <img src="images/f7.jpg" alt="news image" class="img-fluid">
-            </a>
+        <!-- //popup -->
+        <!-- popup-->
+        <div id="gal5" class="popup-effect">
+          <div class="popup">
+            <img src="images/n55.jpg" alt="Popup Image" class="img-fluid">
+            <a class="close" href="#gallery">×</a>
           </div>
         </div>
-      </div>
-      <!-- popup-->
-      <div id="gal1" class="popup-effect">
-        <div class="popup">
-          <img src="images/n11.jpg" alt="Popup Image" class="img-fluid">
-          <a class="close" href="#gallery">×</a>
+        <!-- //popup -->
+        <!-- popup-->
+        <div id="gal6" class="popup-effect">
+          <div class="popup">
+            <img src="images/f7.jpg" alt="Popup Image" class="img-fluid">
+            <a class="close" href="#gallery">×</a>
+          </div>
         </div>
+        <!-- //popup -->
       </div>
-      <!-- //popup -->
-      <!-- popup-->
-      <div id="gal2" class="popup-effect">
-        <div class="popup">
-          <img src="images/n22.jpg" alt="Popup Image" class="img-fluid">
-          <a class="close" href="#gallery">×</a>
-        </div>
-      </div>
-      <!-- //popup -->
-      <!-- popup-->
-      <div id="gal3" class="popup-effect">
-        <div class="popup">
-          <img src="images/n33.jpg" alt="Popup Image" class="img-fluid">
-          <a class="close" href="#gallery">×</a>
-        </div>
-      </div>
-      <!-- //popup -->
-      <!-- popup-->
-      <div id="gal4" class="popup-effect">
-        <div class="popup">
-          <img src="images/n44.jpg" alt="Popup Image" class="img-fluid">
-          <a class="close" href="#gallery">×</a>
-        </div>
-      </div>
-      <!-- //popup -->
-      <!-- popup-->
-      <div id="gal5" class="popup-effect">
-        <div class="popup">
-          <img src="images/n55.jpg" alt="Popup Image" class="img-fluid">
-          <a class="close" href="#gallery">×</a>
-        </div>
-      </div>
-      <!-- //popup -->
-      <!-- popup-->
-      <div id="gal6" class="popup-effect">
-        <div class="popup">
-          <img src="images/f7.jpg" alt="Popup Image" class="img-fluid">
-          <a class="close" href="#gallery">×</a>
-        </div>
-      </div>
-      <!-- //popup -->
-    </div>
-  </section>
-  <!--//gallery -->
-  <!-- blog -->
+    </section>
+    <!--//gallery -->
+    <!-- blog -->
   <!--
   <section class="blog py-lg-5 py-md-4 py-sm-3 py-3" id="blog">
     <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
@@ -495,35 +501,35 @@
   </section>
   <!-- contact -->
   <section class="contact py-lg-4 py-md-4 py-sm-3 py-3" id="contact">
-    <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
+    <div class="container" style="padding-top: 9rem;">
       <h3 class="title text-center mb-2">Get In Touch</h3>
       <div class="title-w3ls-text text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
         <p>Drop us line, or give us a heads up if you're intrested in visiting us
         </p>
       </div>
       <div class="contact-form">
-        <form action="#" method="post">
+        <form action="back.php" method="post">
           <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 form-group contact-forms">
-              <input type="text" class="form-control" placeholder="First Name" required="">
+              <input type="text" id="fname" name="fname" class="form-control" placeholder="First Name" required="">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 form-group contact-forms">
-              <input type="text" class="form-control" placeholder="Last Name" required="">
+              <input type="text" id="lname" name="lname" class="form-control" placeholder="Last Name" required="">
             </div>
           </div>
           <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 form-group contact-forms">
-              <input type="text" class="form-control" placeholder="Phone" required="">
+              <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone" required="">
 
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 form-group contact-forms">
-              <input type="email" class="form-control" placeholder="Email" required="">
+              <input type="email" id="mail" name="mail" class="form-control" placeholder="Email" required="">
             </div>
           </div>
           <div class="form-group contact-forms">
-            <textarea class="form-control" placeholder="Meassage" required=""></textarea>
+            <textarea class="form-control" id="message" name="message" placeholder="Message" required=""></textarea>
           </div>
-          <button type="submit" class="btn sent-butnn btn-lg">Send</button>
+          <button type="submit" id="contact" name="contact" class="btn sent-butnn btn-lg">Send</button>
         </form>
       </div>
     </div>

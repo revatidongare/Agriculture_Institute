@@ -88,7 +88,7 @@ Farmer Study
   $headers = 'From: contact@farmerstudy.com';
 
   if (mail($to, $subject, $body, $headers)) {
-    header('location:contact-us.php?p=3');
+    header('location:contact.php?p=3');
   }
   else{
     echo("email failed to sent to user whose email is " . $email);
@@ -110,12 +110,11 @@ $to_email1 = 'contact@farmerstudy.com';
   mail($to_email1,$subject1,$message1,$headers1);
   //self email end
 
-      // header("location:contact-us.php?q=2");
     }
     else{
 
-      header("location:contact-us.php?q=101");
+      header("location:contact.php?q=101");
     }
 
-}
+
 ?>
