@@ -156,7 +156,7 @@
           <div class="grid-wthree-service">
             <img src="images/soiltest.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
-              <h4>
+              <h4><br>
                Soil Testing
               </h4>
               <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
@@ -167,10 +167,10 @@
           <div class="grid-wthree-service">
             <img src="images/plantbiochemistry.jpg" alt="news image" class="img-fluid">
             <div class="ser-text-wthree mt-3">
-              <h4>
+              <h4><br>
                 Plant Biochemistry
               </h4>
-              <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+              <!-- <p class="mt-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
             </div>
           </div>
         </div>
@@ -217,7 +217,16 @@
   <!-- vegetable-info -->
   <section class="veg-info py-lg-4 py-md-4 py-sm-3 py-3">
     <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
-      <div class="row">
+      <!-- <div class="row"> -->
+        <h3 class="title text-center mb-2">Our Ventures </h3>
+        
+        <div class="owl-carousel clients-carousel">
+      <img src="images/clients/hotel world.png" alt="" style="height: 150px";>
+      <img src="images/clients/Travelog-immigration.png" alt=""style="height: 150px";>
+      <img src="images/clients/jwdmclogo.png" alt=""style="height: 150px";>
+      <img src="images/clients/Travelog-Holidays.png" alt=""style="height: 150px";>
+      <img src="images/clients/trustdoc-final.png" alt=""style="height: 150px";>
+          </div>
         <!-- <div class="col-lg-7">
           <img src="images/bb4.jpg" alt="news image" class="img-fluid">
         </div>
@@ -263,7 +272,7 @@
             </div>
           </div>
         </div> -->
-      </div>
+      <!-- </div> -->
     </div>
   </section>
   <!--//vegetable-info -->

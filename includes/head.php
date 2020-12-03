@@ -25,6 +25,7 @@
   <!-- //font-awesome icons -->
   <!--stylesheets-->
   <link href="css/style.css" rel='stylesheet' type='text/css' media="all">
+  <link href="css/bootstrap.css" rel='stylesheet' type='text/css' media="all">
   <!--//stylesheets-->
   <link href="//fonts.googleapis.com/css?family=Raleway:400,500,600,700" rel="stylesheet">
   <link href="//fonts.googleapis.com/css?family=Patrick+Hand" rel="stylesheet">
