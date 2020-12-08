@@ -9,9 +9,12 @@
 
       <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10" style="padding: 1em 2em;">
         <label for="drop" class="toggle">Menu</label>
+
         <input type="checkbox" id="drop">
         <ul class="menu mt-2">
+
           <li class="active">
+
             <a href="index.php">Home</a>
           </li>
           <li>
@@ -41,6 +44,14 @@
             <li>
               <a href="contact.php">Contact Us</a>
             </li>
+            <li>
+            <div class="fsElementContent">
+            <div id="google_translate_element">
+              <div class="skiptranslate goog-te-gadget ae-exclude" dir="ltr" style="">
+              </div>
+            </div>
+        </div>
+      </li>
         </ul>
       </div>
     </div>
