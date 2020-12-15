@@ -18,9 +18,18 @@
       <?php include 'includes/navbar.php';?>
       <!-- //nav -->
     </div>
+    <div class="section">
+      <!--<h1>FARMER STUDY</h1>-->
+       
+          <div class="video-container">
+            <video  autoplay loop muted  >
+            <source src=images/farms.mp4 type="video/mp4">
+            </video>
+          </div>
+  </div>
     <!-- //header -->
     <!-- banner -->
-    <div class="main-banner text-center">
+    <!--<div class="main-banner text-center">
       <div class="container">
         <div class="social-icons mb-lg-4 mb-3">
           <ul>
@@ -58,7 +67,7 @@
             <br>Career Evaluation</p>
           </div>
         </div>
-      </div>
+      </div>-->
     </div>
     <!-- //banner -->
     <!-- about -->
