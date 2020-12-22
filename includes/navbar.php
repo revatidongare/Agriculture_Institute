@@ -21,7 +21,7 @@
             <a href="about.php">About</a>
           </li>
           <li>
-            <a href="course-details.php">Course Details</a>
+            <a href="course_details.php">Course Details</a>
           </li>
           <li>
             <!-- First Tier Drop Down -->

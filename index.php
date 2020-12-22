@@ -18,18 +18,60 @@
       <?php include 'includes/navbar.php';?>
       <!-- //nav -->
     </div>
-    <div class="section">
-      <!--<h1>FARMER STUDY</h1>-->
-       
-          <div class="video-container">
-            <video  autoplay loop muted  >
-            <source src=images/farms.mp4 type="video/mp4">
-            </video>
-          </div>
-  </div>
     <!-- //header -->
     <!-- banner -->
-    <!--<div class="main-banner text-center">
+   <section class="slider">
+  <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="item"> <img data-src="images/pp5.jpg" alt="First slide" src="images/pp5.jpg" style="width:100%";>
+        <div class="container">
+          <div class="carousel-caption">
+            <h2><b>WE OFFER</b></h2><br>
+            <li>We Offer Diploma in Agriculture with International work experince in Australia, U.S.A, Europe..etc
+            Recognized by American Institute</li>
+          
+          </div>
+        </div>
+      </div>
+      <div class="item"> <img data-src="images/new2.jgp" alt="First slide" src="images/new2.jpg" style="width:100%";>
+        <div class="container">
+          <div class="carousel-caption">
+            <h2><b>BENIFITS</b></h2><br>
+            <ul>
+              <li>Personal Academic and Professional growth</li>
+              <li>Expand your Global network</li>
+               <li>Career Evaluation</li>
+                <li>Learn and Earn</li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="item"> <img data-src="images/new1.jpeg" alt="First slide" src="images/new1.jpeg" style="width:100%";>
+        <div class="container">
+          <div class="carousel-caption">
+            <h2><b>CONTACT US</b></h2>
+                    <li># +91 20-4860102</li>
+                    <li># +91 9325656756</li>
+                    <li># +91 9922514719</li><br>
+            <h2><b>MAIL ID</b></h2>
+                    <i>contact@travelogimmigration.com</i>
+
+          </div>
+        </div>
+      </div>
+      <div class="item active"> <img data-src="images/pp22.jpg" alt="Second slide" src="images/pp2.jpg" style="width:100%";>
+        <div class="container">
+          <div class="carousel-caption">
+            <h1><b>FARMER STUDY</b></h1> 
+            <h3><b>MANGEMENT INSTITUTE</b></h3>      
+          </div>
+        </div>
+      </div>
+    </div>
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon carousel-control-left"></span></a> <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon carousel-control-right"></span></a> </div>
+</section>
+
+  <!--  <div class="main-banner text-center">
       <div class="container">
         <div class="social-icons mb-lg-4 mb-3">
           <ul>

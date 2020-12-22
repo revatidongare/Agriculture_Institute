@@ -449,11 +449,11 @@ background-color: #212121;
 
 /* headder */
 /*-- banner-- */
-.headder-top {
+/*.headder-top {
     position: absolute;
     width: 100%;
     /*padding: 1em 2em;*/
-    background: rgba(230, 230, 230, 0.5);
+   /* background: rgba(230, 230, 230, 0.5);
 }
 .main-banner {
     padding-top: 20em;
@@ -532,8 +532,86 @@ font-family: 'Arial', cursive;
     background-color: #3e3e3e;
     padding: 8px 15px;
     border: 2px solid #989898;
-}
+}*/
 /*--// banner-- */
+
+.slider {
+  position: relative;
+  z-index: 9;
+}
+.slider .btn {
+  margin: 20px 10px 0;
+}
+.carousel-caption {
+  top: 50%;
+  margin-top: -160px;
+  font-size: 18px;
+  color: rgba(255,255,255,0.7);
+  text-shadow: 1px 1px 3px #666666;
+  text-transform: none;
+}
+.carousel-caption h1 {
+  line-height: 80px;
+}
+.carousel-caption h1 span {
+  color: #ffdd3c;
+  border: 2px solid #fff;
+  padding: 0 4px 4px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+.carousel-caption p {
+  margin: 40px 0;
+}
+.carousel-control {
+  background: none;
+  opacity: 1;
+  position: absolute;
+  top: 50%;
+  margin-top: -27px;
+  -moz-opacity: 1;
+}
+.carousel-control .carousel-control-left {
+  background: url('../images/prev.png') no-repeat;
+  width: 54px;
+  height: 54px;
+  left: 20px;
+}
+.carousel-control .carousel-control-right {
+  background: url('../images/next.png') no-repeat;
+  width: 54px;
+  height: 54px;
+  right: 20px;
+}
+.carousel-control .carousel-control-left:hover {
+  background: url('../images/prev_a.png') no-repeat;
+}
+.carousel-control .carousel-control-right:hover {
+  background: url('../images/next_a.png') no-repeat;
+}
+.boxed .carousel-control .carousel-control-left {
+  left: -150px;
+  top: 270px;
+}
+.boxed .carousel-control .carousel-control-right {
+  right: -150px;
+  top: 270px;
+}
+.boxed .carousel-caption {
+  top: 90px;
+}
+.boxess {
+  background-color: #222;
+}
+.boxess .carousel-caption h1 {
+  font-size: 40px;
+  line-height: 40px;
+}
+
+
 /*--about--*/
 
 .abut-img-two img {

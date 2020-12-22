@@ -17,6 +17,10 @@
       window.scrollTo(0, 1);
     }
   </script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
   <!--booststrap-->
   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
   <!--//booststrap end-->
@@ -30,7 +34,7 @@
   <link href="//fonts.googleapis.com/css?family=Raleway:400,500,600,700" rel="stylesheet">
   <link href="//fonts.googleapis.com/css?family=Patrick+Hand" rel="stylesheet">
   <link href="//fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
-  <link href="//fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
+
 
   <style>
       .unselectable {
@@ -42,5 +46,6 @@
         color: #cc0000;
       }
     </style>
-    
+
+
 </head>

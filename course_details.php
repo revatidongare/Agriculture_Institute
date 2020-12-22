@@ -371,12 +371,12 @@ In the United States, the national organization overseeing poultry production is
   <!-- footer -->
   <?php include 'includes/footer.php';?>
   <!--footer-copy-right -->
-  <footer class="bottem-wthree-footer text-center py-md-4 py-3">
+  <!--<footer class="bottem-wthree-footer text-center py-md-4 py-3">
     <p>
       © 2020 Farmer Study| All Rights Reserved | <a href="www.jwcreation.com">JW Creation</a>
       
     </p>
-  </footer>
+  </footer>-->
   <!--//footer-copy-right -->
 
 </body>
